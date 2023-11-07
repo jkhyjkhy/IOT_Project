@@ -20,8 +20,8 @@
 
 ## 개발자
 
-정영희 : <github.com/jkhyjkhy>
-조원석
+정영희 : <https://github.com/jkhyjkhy>
+조원석 : <https://github.com/sorrk>
 
 ## 개발기간
 
